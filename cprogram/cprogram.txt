@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int age = 21;
+    char name[] = "Rahul";
+
+    printf("My name is %s\n", name);
+    printf("My age is %d", age);
+    
+    return 0;
+}
