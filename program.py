@@ -1,3 +1,3 @@
 
-    printf("i love cybersequrity");
+printf("i love cybersequrity");
 print("welcome")
